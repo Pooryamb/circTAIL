@@ -3,9 +3,13 @@
 Prerequisites:
 
 •	Python
+
 •	gcc
+
 •	Numpy
+
 •	Pandas
+
 •	Blast
 
 For never-edited libraries and pre-edited libraries, the aligner in circTailAlignerGapLess 
