@@ -1,0 +1,22 @@
+Intermediate Files Guide
+
+PrimaryName_reversed : Reversed R_alignment file
+
+after just running the aligner
+L_alignment_BeforeSelection_BeforeTgapCorrection.txt
+R_alignment_reversed_BeforeSelection_BeforeTgapCorrection.txt
+
+after correcting Tgap:
+L_alignment_BeforeSelection.txt
+R_alignment_reversed_BeforeSelection.txt
+
+after pruning
+L_alignment_BeforeSelection_pruned.txt
+R_alignment_reversed_BeforeSelection_pruned.txt
+
+The following contains the overlapping reads merged with each other, first L side, then right side
+ReadsWithOverlaps.txt
+
+These contain overlap resolved files:
+Overlapping_L_alignment_Overlap_Resolved.txt
+Overlapping_R_alignment_reversed_Overlap_Resolved.txt
